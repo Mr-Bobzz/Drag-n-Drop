@@ -11,7 +11,7 @@ Installation
 Clone the repository:
 sh
 Copy code
-git clone https://github.com/Mr-Bobzz/drag-n-drop.git
+git clone https://github.com/Mr-Bobzz/Drag-n-Drop/.git
 Navigate to the project directory:
 sh
 Copy code
